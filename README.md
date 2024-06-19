@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Rajput</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+<h3 align="center">A passionate FullStack web developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/ysh_rajput09" target="blank"><img src="https://img.shields.io/twitter/follow/ysh_rajput09?logo=twitter&style=for-the-badge" alt="ysh_rajput09" /></a> </p>
 
