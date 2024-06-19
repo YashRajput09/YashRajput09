@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Rajput</h1>
 <h3 align="center">A passionate FullStack web developer from India</h3>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREGBpPyUOYTX6caremHwLpkFXuSjSlSd-ID5cv_lqBhNn4Y2LgwLULAWo0PAaDiIGqGN4&usqp=CAU" width="450px" align="right" alt="">
+<img src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTg3NzA2MjUsIm5iZiI6MTcxODc3MDMyNSwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjE5VDA0MTIwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM1NTkyYzlkMjEwMTY2MTNiZTM1YzhlZjI2ZWRhNmY2MTY5ZDJjMjMzMDU2NDFmNjlhNjE0NWI1OTcyOTEyOTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.yI8ays6CjS0hZ2zQfJ8bafKqSeXIDppSpVBNHjTgYSc" width="450px" align="right" alt="">
 <p align="left"> <a href="https://twitter.com/ysh_rajput09" target="blank"><img src="https://img.shields.io/twitter/follow/ysh_rajput09?logo=twitter&style=for-the-badge" alt="ysh_rajput09" /></a> </p>
 
 - 🔭 I’m currently working on **TIEZBags**
