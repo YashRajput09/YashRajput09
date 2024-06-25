@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Rajput</h1>
 <h3 align="center">A passionate FullStack web developer from India</h3>
- <img src="https://i.gifer.com/Ry6p.gif" alt="" />
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F161921919%2FPortrait-animated-gif&psig=AOvVaw2zorr9rczp2M3Z4R_KMfer&ust=1719418930187000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJi3u-iU94YDFQAAAAAdAAAAABAZ" alt="" />
 <p align="left"> <a href="https://twitter.com/ysh_rajput09" target="blank"><img src="https://img.shields.io/twitter/follow/ysh_rajput09?logo=twitter&style=for-the-badge" alt="ysh_rajput09" /></a> </p>
 
 - 🔭 I’m currently working on **TIEZBags Project**
