@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1qeQKhLI6DuikP4J0SvGRED_FBrrPthwQ/view?usp=drivesdk](https://drive.google.com/file/d/1qeQKhLI6DuikP4J0SvGRED_FBrrPthwQ/view?usp=drivesdk)
 
-- ⚡ Fun fact : ** At least someone loves me and fight for me.
+- ⚡ Fun fact  **: At least someone loves me and fight for me.
                  I love my white blood cells.**
 
 <h3 align="left">Connect with me:</h3>
