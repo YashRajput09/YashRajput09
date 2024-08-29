@@ -7,13 +7,14 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Nodejs, Express, JavaScript, Mongodb**
+- 💬 Ask me about **Nodejs, Express, JavaScript, Mongodb, React**
 
 - 📫 How to reach me **rajputyash8561@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1qeQKhLI6DuikP4J0SvGRED_FBrrPthwQ/view?usp=drivesdk](https://drive.google.com/file/d/1qeQKhLI6DuikP4J0SvGRED_FBrrPthwQ/view?usp=drivesdk)
 
-- ⚡ Fun fact **An average person normally blinks 20 times a minute, but when using a computer developers, blinks only 7 times a minute.**
+- ⚡ Fun fact **At least someone loves me and fight for me.
+                 I live my white blood cells.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
