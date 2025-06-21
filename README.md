@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **BlogBreez Project**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NextJs**
 
-- 💬 Ask me about **Nodejs, Express, JavaScript, Mongodb, React**
+- 💬 Ask me about **Nodejs, Express, JavaScript, Mongodb, React, Typescript**
 
 - 📫 How to reach me **rajputyash8561@gmail.com**
 
