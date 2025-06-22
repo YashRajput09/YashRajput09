@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **BlogBreez Project**
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **NextJs and Java + DSA**
 
 - 💬 Ask me about **Nodejs, Express, JavaScript, Mongodb, React, Typescript**
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1qeQKhLI6DuikP4J0SvGRED_FBrrPthwQ/view?usp=drivesdk](https://drive.google.com/file/d/1AqahKbpmYmXNmD7wVqVFXxiGvpMipNSZ/view?usp=drivesdk)
 
-- ⚡ Fun fact  **: At least someone loves me and fight for me.
+- ⚡ Fun fact  **: At least someone loves me and fights for me.
                  I love my white blood cells.**
 
 <h3 align="left">Connect with me:</h3>
