@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rajputyash8561@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qeQKhLI6DuikP4J0SvGRED_FBrrPthwQ/view?usp=drivesdk](https://drive.google.com/file/d/1AqahKbpmYmXNmD7wVqVFXxiGvpMipNSZ/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1AqahKbpmYmXNmD7wVqVFXxiGvpMipNSZ/view?usp=drivesdk](https://drive.google.com/file/d/1p9TJQCIT2ho8eDPlItNxARL-rH7DYO3m/view?usp=sharing))
 
 - ⚡ Fun fact  **: At least someone loves me and fights for me.
                  I love my white blood cells.**
